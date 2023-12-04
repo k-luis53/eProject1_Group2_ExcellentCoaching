@@ -33,9 +33,9 @@ const Navbar = () => {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        <Dropdown.Item href="frontend">FrontEnd</Dropdown.Item>              <Dropdown.Divider />
-        <Dropdown.Item href="backend">BackEnd</Dropdown.Item>              <Dropdown.Divider />
-        <Dropdown.Item href="fullstack">FullStack</Dropdown.Item>
+        <Dropdown.Item > <NavLink to="./frontend">FrontEnd</NavLink></Dropdown.Item>              <Dropdown.Divider />
+        <Dropdown.Item ><NavLink to="./backend">BackEnd</NavLink></Dropdown.Item>              <Dropdown.Divider />
+        <Dropdown.Item ><NavLink to="./fullstack">Fullstack</NavLink></Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
             </li>
