@@ -34,7 +34,7 @@ function FT() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img  src=".image/Screenshot 2023-11-24 104325.png" alt="" />
+                    <img  src="./image/Screenshot 2023-11-24 104325.png" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Full Stack developer in 6 month! <br />

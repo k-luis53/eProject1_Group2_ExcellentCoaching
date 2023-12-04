@@ -34,7 +34,7 @@ function FE() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img src=".image/frondend.jpg" alt="" />
+                    <img src="./image/frondend.jpg" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Front End developer in 3 month! <br />
