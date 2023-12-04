@@ -45,9 +45,9 @@ function BE() {
            </div>
                 <div className='course'>
                 <h2>This course will be break into 3 small Course</h2>
-                <div className='sc'><a href="./nodejs"><img src=".image/Screenshot 2023-11-24 094801.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="./php"><img src=".image/Screenshot 2023-11-24 094839.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="./python"><img src=".image/python.jpg" alt="" className='img'/></a></div>
+                <div className='sc'><a href="./nodejs"><img src="./image/Screenshot 2023-11-24 094801.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./php"><img src="./image/Screenshot 2023-11-24 094839.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./python"><img src="./image/python.jpg" alt="" className='img'/></a></div>
                 </div>
         </div>
     );
