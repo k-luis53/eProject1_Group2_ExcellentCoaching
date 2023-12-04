@@ -1,0 +1,46 @@
+.about-us {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+   }
+   
+   .about-us h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+   }
+   
+   .about-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+   }
+   
+   .about-us p {
+    font-size: 16px;
+    margin-bottom: 20px;
+   }
+   
+   .about-us ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+   }
+   
+   .about-us li {
+    font-size: 16px;
+    margin-bottom: 10px;
+   }
+
+
+.App {
+    font-family: Arial, sans-serif;
+    color: #333;
+    
+   }
+   
+  
+   @media screen and (max-width: 768px) {
+    .App {
+       padding: 20px;
+    }
+   }

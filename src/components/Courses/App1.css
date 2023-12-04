@@ -1,0 +1,106 @@
+.h1{
+    text-decoration: underline;
+}
+.p{
+    max-width: 800px;
+}
+
+.icon{
+    margin-right: 8px;
+}
+ .able{
+    height: 20px;
+ }
+.ft{
+    margin: 0 20px;
+}
+.img{
+    width: 270px;
+    border-radius: 25px;
+    margin: 5px 5px 5px 15px;
+    height: 150px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+}
+.sc{
+    display: inline-block;
+}
+.right img{
+    width: 100%;
+    border-radius: 25px;
+    max-height:300px ;
+}
+.right{
+   margin: 50px 50px 20px 50px;
+   border: solid 1px ;
+   font-weight: bold;
+   border-radius: 25px;
+   height: 520px;
+   min-width: 300px;
+}
+.text{
+    margin-top: 5px;
+   margin-left: 25%;
+}
+.up-but{
+    background-color: rgb(255, 184, 53);
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: rgb(241, 161, 12);
+}
+.sc:hover{
+    -webkit-filter: brightness(110%);
+}
+.course{
+    justify-content: center;
+}
+@media (max-width: 1000px) {
+    .top {
+      flex-direction: column;
+    }
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+}
+
+.press {
+    display: block;  /* Remove bullet points; allow greater control of positioning */
+    padding: 0;      /* Override defaults for lists */
+    margin-left: 35px;       /* Override defaults for lists */
+    width: 670px;     /* Get the row full width */
+}
+
+.press li {
+    display: inline-block; /* Get all images to show in a row */
+    width: 50%;            /* Show 4 logos per row */
+}
+
+@media (max-width: 960px) and (min-width: 501px) {
+    .press li { width: 50%; } /* Show 2 logos per row on medium devices (tablets, phones in landscape) */
+}
+
+@media (max-width: 500px) {
+    .press li { width: 100%; } /* On small screens, show one logo per row */
+}
+@media (max-width: 600px){
+    .text{
+        margin-top: 5px;
+       margin-left: 15%;
+    }
+    .right{
+        height: 400px;
+    }
+}
+
