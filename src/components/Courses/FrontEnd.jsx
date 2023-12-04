@@ -34,7 +34,7 @@ function FE() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img src="image/frondend.jpg" alt="" />
+                    <img src=".image/frondend.jpg" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Front End developer in 3 month! <br />
@@ -47,10 +47,10 @@ function FE() {
             </div>
             <div className='course'>
                 <h2>This course will be break into 4 small Course</h2>
-                <div className='sc'><a href="/html"><img src="image/Screenshot 2023-11-24 094641.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="/reactjs"><img src="image/Screenshot 2023-11-24 094752.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="/sass"><img src="image/sass.jpg" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="/javascript"><img src="image/Screenshot 2023-11-24 094719.png" alt="" className='img'/></a></div>
+                <div className='sc'><a href="./html"><img src="image/Screenshot 2023-11-24 094641.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./reactjs"><img src="image/Screenshot 2023-11-24 094752.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./sass"><img src="image/sass.jpg" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./javascript"><img src="image/Screenshot 2023-11-24 094719.png" alt="" className='img'/></a></div>
             </div>
         </div>
     );

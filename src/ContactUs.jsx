@@ -24,7 +24,7 @@ function ContactUs() {
                 <Row>
                     <Col>
                         <div>
-                            <img src="/image/contact.jpg" alt="" style={{ width: "100%" }} />
+                            <img src="./image/contact.jpg" alt="" style={{ width: "100%" }} />
                         </div>
                     </Col>
 

@@ -11,7 +11,7 @@ function MyVerticallyCenteredModal(props) {
       centered
     >
       <Modal.Body>
-      <img src="/image/ggmap.png" alt="" style={{ width: "100%" }} />
+      <img src="./image/ggmap.png" alt="" style={{ width: "100%" }} />
       </Modal.Body>
     </Modal>
   );
@@ -23,7 +23,7 @@ function ModalMap() {
   return (
     <>
       <Button variant="" onClick={() => setModalShow(true)}>
-        <img src="/image/ggmap.png" alt="" style={{width:"100%"}}/>
+        <img src="./image/ggmap.png" alt="" style={{width:"100%"}}/>
       </Button>
 
       <MyVerticallyCenteredModal

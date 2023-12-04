@@ -41,8 +41,8 @@ function Sass() {
             </div>            </Col>
         <Col sm={4}>
             <div className="modal-1">
-            <img src="/image/sass.jpg" alt="" style={{width:"100%"}}/>
-            <div ><button className="button-28"><a href="/register" className='register-navbar'>Register</a></button></div>
+            <img src="./image/sass.jpg" alt="" style={{width:"100%"}}/>
+            <div ><button className="button-28"><a href="./register" className='register-navbar'>Register</a></button></div>
             </div>        </Col>
       </Row>
     </Container>

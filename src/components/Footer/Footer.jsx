@@ -19,7 +19,7 @@ function Footer() {
                 <section id="contact">
         <p>Address: 590 CMT8</p>
 
-        <p>Email: <a href="mailto:info@excellentcoaching.com">info@excellentcoaching.com</a></p>
+        <p>Email: <a href=".mailto:info@excellentcoaching.com">info@excellentcoaching.com</a></p>
     </section>
 
 
@@ -28,22 +28,22 @@ function Footer() {
               <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
                 <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
                 <p>
-                  <a href='reactjs' className='text-reset'>
+                  <a href='.reactjs' className='text-reset'>
                     ReactJS
                   </a>
                 </p>
                 <p>
-                  <a href='html' className='text-reset'>
+                  <a href='.html' className='text-reset'>
                     HTML
                   </a>
                 </p>
                 <p>
-                  <a href='sass' className='text-reset'>
+                  <a href='.sass' className='text-reset'>
                     Sass
                   </a>
                 </p>
                 <p>
-                  <a href='javascript' className='text-reset'>
+                  <a href='.javascript' className='text-reset'>
                     JavaScript
                   </a>
                 </p>
@@ -52,16 +52,16 @@ function Footer() {
               <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
                 <h6 className='text-uppercase fw-bold mb-4'>Trainers' info</h6>
                 <p>
-                    <a href="https://www.facebook.com/ametrine.s" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mrs. Ametrine</a>
+                    <a href=".https://www.facebook.com/ametrine.s" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mrs. Ametrine</a>
                 </p>
                 <p>
-                    <a href="https://www.facebook.com/profile.php?id=100015941252427" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. Louis</a>
+                    <a href=".https://www.facebook.com/profile.php?id=100015941252427" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. Louis</a>
                 </p>
                 <p>
-                    <a href="https://www.facebook.com/profile.php?id=100035684316443" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. David</a>
+                    <a href=".https://www.facebook.com/profile.php?id=100035684316443" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. David</a>
                 </p>
                 <p>
-                    <a href="https://www.facebook.com/profile.php?id=100038729464754" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. Ben</a>
+                    <a href=".https://www.facebook.com/profile.php?id=100038729464754" className='text-reset'><FontAwesomeIcon icon={faFacebook} />  Mr. Ben</a>
                 </p>
               </MDBCol>
 

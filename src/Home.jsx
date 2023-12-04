@@ -9,7 +9,7 @@ function Home() {
                 <Row>
                     <Col>
                         <div class="home-container">
-                            <img src="image/homeimg.jpg" alt="" className="home-img" />
+                            <img src=".image/homeimg.jpg" alt="" className="home-img" />
                             <div class="text-info">
                                 <h4>Excellent Coaching</h4>
                                 <p>Excellent Coaching is into business for more than a decade. We have been
@@ -23,11 +23,11 @@ function Home() {
                 </Row>
             </Container>
 
-            <h1><a href="/frontend" className="front-end">Front-End</a></h1>
+            <h1><a href="./frontend" className="front-end">Front-End</a></h1>
 
             <Row>
                 <Col>
-                    <img src="/image/frontend.png" alt="" style={{ width: "80%" }} className="pic-1" />
+                    <img src="./image/frontend.png" alt="" style={{ width: "80%" }} className="pic-1" />
                 </Col>
                 <Col>
                     <div className="text-1">
@@ -41,7 +41,7 @@ function Home() {
                 </Col>
             </Row>
 
-            <Row><Col md={{ span: 4, offset: 9 }}><h1><a href="/backend" className="back-end">Back-End</a></h1></Col></Row>
+            <Row><Col md={{ span: 4, offset: 9 }}><h1><a href="./backend" className="back-end">Back-End</a></h1></Col></Row>
 
             <Row>
                 <Col md={{ span: 3, offset: 3 }}>
@@ -56,17 +56,17 @@ function Home() {
 
                 </Col>
                 <Col md={{ span: 4, offset: 1 }}>
-                    <img src="/image/backend.png" alt="" style={{ width: "80%" }} className="pic-2" />
+                    <img src="./image/backend.png" alt="" style={{ width: "80%" }} className="pic-2" />
                 </Col>
             </Row>
 
-            <h1><a href="/fullstack" className="full-stack">Full-Stack</a></h1>
+            <h1><a href="./fullstack" className="full-stack">Full-Stack</a></h1>
 
 
 
             <Row>
                 <Col>
-                    <img src="/image/fullstack.jpg" alt="" style={{ width: "80%" }} className="pic-3" />
+                    <img src="./image/fullstack.jpg" alt="" style={{ width: "80%" }} className="pic-3" />
                 </Col>
                 <Col>
                     <div className="text-3">
