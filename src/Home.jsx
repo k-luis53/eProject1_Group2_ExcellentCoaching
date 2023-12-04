@@ -9,7 +9,7 @@ function Home() {
                 <Row>
                     <Col>
                         <div class="home-container">
-                            <img src=".image/homeimg.jpg" alt="" className="home-img" />
+                            <img src="./image/homeimg.jpg" alt="" className="home-img" />
                             <div class="text-info">
                                 <h4>Excellent Coaching</h4>
                                 <p>Excellent Coaching is into business for more than a decade. We have been

@@ -42,15 +42,15 @@ function FE() {
                         <FontAwesomeIcon className="icon" icon={faBell} /> Have notification when start <br />
                         <FontAwesomeIcon className="icon" icon={faMoneyBills} />   Starting off with 800$
                     </div>
-                    <div className="but"><button className='up-but'><a href="/register" className='register-navbar'>Register</a></button></div>
+                    <div className="but"><button className='up-but'><a href="./register" className='register-navbar'>Register</a></button></div>
                 </div>
             </div>
             <div className='course'>
                 <h2>This course will be break into 4 small Course</h2>
-                <div className='sc'><a href="./html"><img src="image/Screenshot 2023-11-24 094641.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="./reactjs"><img src="image/Screenshot 2023-11-24 094752.png" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="./sass"><img src="image/sass.jpg" alt="" className='img'/></a></div>
-                    <div className='sc'><a href="./javascript"><img src="image/Screenshot 2023-11-24 094719.png" alt="" className='img'/></a></div>
+                <div className='sc'><a href="./html"><img src=".image/Screenshot 2023-11-24 094641.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./reactjs"><img src=".image/Screenshot 2023-11-24 094752.png" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./sass"><img src=".image/sass.jpg" alt="" className='img'/></a></div>
+                    <div className='sc'><a href="./javascript"><img src=".image/Screenshot 2023-11-24 094719.png" alt="" className='img'/></a></div>
             </div>
         </div>
     );
